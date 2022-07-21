@@ -1,0 +1,18 @@
+body{
+    background-color: #c5bdbd
+}
+
+p {
+    color: #920d0d;
+}
+
+.foto-principal {
+     width: 200px;
+     border: 2px solid rgb(30 30 82); /* shorthand */
+     border-radius: 50%;
+     margin: 30px;
+     padding: 10px;
+     box-shadow: 12px 12px 12px rgb(8 9 9 / 96%);
+
+    
+}

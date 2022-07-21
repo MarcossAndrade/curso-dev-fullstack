@@ -1,0 +1,16 @@
+body{
+    background-color: #c5bdbd
+}
+
+p {
+    color: #c5bdbd;
+}
+
+.foto-principal {
+  border: 5px solid rgb(193, 177, 241);
+  border-radius: 40% 40% 10% 10%;
+  /* border-width: 5px;
+    border-color: solid;
+    border-style: black;
+    */
+}

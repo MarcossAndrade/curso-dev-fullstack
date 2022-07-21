@@ -1,0 +1,22 @@
+body{
+    background-color: #c5bdbd
+}
+
+p {
+    color: #c5bdbd;
+}
+
+.foto-principal {
+   
+    margin: 10px 20px 30px 40px;
+    /*border: 5px solid rgb(193, 177, 241);
+  border-radius: 40% 40% 10% 10%;
+  border-top: 30px; 
+  margin-bottom: 100px;
+  margin-left: 500px;*/
+  
+  /* border-width: 5px;
+    border-color: solid;
+    border-style: black;
+    */
+}

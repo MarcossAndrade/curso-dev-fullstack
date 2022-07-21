@@ -1,0 +1,13 @@
+body{
+    background-image: url(javascript.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    color: #990b0b;
+}
+
+li {
+    color: blue;
+}
